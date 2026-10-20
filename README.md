@@ -2,7 +2,7 @@
 
 Graduation project: a full-stack clinic management platform with role-based dashboards for admins, doctors, patients, receptionists and security officers.
 
-**Live demo:** _link added after deployment_ (hosted on a free tier — the first load after a period of inactivity can take ~1 minute while the server wakes up).
+**Live demo:** https://clinicos-wssf.onrender.com (hosted on a free tier — the first load after a period of inactivity can take ~1 minute while the server wakes up).
 
 ## Features
 
