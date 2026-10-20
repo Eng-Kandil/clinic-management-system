@@ -23,3 +23,9 @@ services:
         generateValue: true
       - key: AUTH_TRUST_HOST
         value: "true"
+      - key: AUTH_URL
+        value: https://clinicos-wssf.onrender.com
+      - key: NEXTAUTH_URL
+        value: https://clinicos-wssf.onrender.com
+      - key: APP_URL
+        value: https://clinicos-wssf.onrender.com
